@@ -1,0 +1,8 @@
+@echo off
+echo Starting IT TSA workspace
+START "" "%ProgramFiles(x86)%\Google\Chrome\Application\Chrome.exe"
+START "" "%ProgramFiles(x86)%\Google\Chrome\Application\Chrome.exe"
+START "" "C:\Program Files (x86)\Mitel\Connect\mitel.exe"
+START C:\Windows\System32\dsac.exe
+START C:\Users\*username*\Desktop\search.bat
+EXIT /B
