@@ -1,0 +1,9 @@
+@echo off
+.Starts up IT workspace at Ashland University TSC, 
+echo Starting IT TSA workspace
+START "" "%ProgramFiles(x86)%\Google\Chrome\Application\Chrome.exe" kbox.it.ashland.edu/admin 
+START "" "%ProgramFiles(x86)%\Google\Chrome\Application\Chrome.exe" gmail.com spotify.com https://secure3.saashr.com/ta/6024476.clock?rnd=ZXQ
+START "" "C:\Program Files (x86)\Mitel\Connect\mitel.exe"
+START C:\Windows\System32\dsac.exe
+START C:\Users\cfagan2\Desktop\search.bat
+EXIT /B
