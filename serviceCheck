@@ -1,0 +1,8 @@
+@echo off
+echo Checking Ashland Services
+
+ping ashland.edu
+ping kbox.it.ashland.edu
+ping webadvisor.ashland.edu
+ping ui.ashland.edu
+PAUSE
