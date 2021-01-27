@@ -1,6 +1,7 @@
 @echo off 
 echo Starting Wall Monitor Screens
 
+START "" "%ProgramFiles(x86)%\Google\Chrome\Application\Chrome.exe" secure3.saashr.com/ta/6024476.clock?rnd=ZXQ
 START "" "%ProgramFiles(x86)%\Google\Chrome\Application\Chrome.exe" myau.ashland.edu/othersites/technologysupportcenter/TSC_Wiki/Home.aspx
 START "" "%ProgramFiles(x86)%\Google\Chrome\Application\Chrome.exe" merci.it.ashland.edu
 START "" "%ProgramFiles(x86)%\Google\Chrome\Application\Chrome.exe" calendar.google.com 
