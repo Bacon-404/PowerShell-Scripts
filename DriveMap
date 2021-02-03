@@ -1,0 +1,8 @@
+@echo off
+set /p "drive=Map H, J or K drives?:"
+
+IF "%drive%"=="H" (
+net use H: \\ad-fs1.ad.ashland.edu\home\$username
+)
+ELSE IF "%drive%
+net use 
